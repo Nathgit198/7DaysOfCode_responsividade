@@ -1,0 +1,23 @@
+@import url(header.css);
+@import url(consultas.css);
+@import url(rodape.css);
+@import url(btn_flutuante.css);
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+body {
+    background-image: linear-gradient(180deg, #F8F4FF, #EFF0F4);
+    height: 100vh;
+    font-family: 'Montserrat', sans-serif;
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

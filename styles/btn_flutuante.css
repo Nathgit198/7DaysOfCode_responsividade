@@ -1,0 +1,12 @@
+.botao_flutuante {
+    position: fixed;
+    bottom: 4rem;
+    right: 0;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
+.botao__flutuante-cadastro {
+    border-radius: 50%;
+    width: 56px;
+    height: 56px;
+}
